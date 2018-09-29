@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <string name="Nairobi">nairobi</string>
+    <string name="Kisumu">kisumu</string>
+    <string name="Bungoma">Bungoma</string>
+    <string name="Nakuru">nakuru</string>
+    <string name="Mombasa">mombasa</string>
+
+    <string name="nai">NAI</string>
+    <string name="ksm">KSM</string>
+    <string name="bgm">BGM</string>
+    <string name="nkr">NKR</string>
+    <string name="mbs">MBS</string>
+
+    <string name="safariinfo">Safari Walk\n \nIs a national park in Kenya. Established in 1946, the national park was Kenya\'s first. It is located approximately 7 kilometres south of the centre of Nairobi, Kenya\'s capital city, with an electric fence separating the park's wildlife from the metropolis.</string>
+    <string name="bomasinfo">Bomas of Kenya\n \nIs a national park in Kenya. Established in 1946, the national park was Kenya\'s first. It is located approximately 7 kilometres south of the centre of Nairobi, Kenya\'s capital city, with an electric fence separating the park's wildlife from the metropolis.</string>
+    <string name="parkinfo">Nairobi National Park\n \nIs a national park in Kenya. Established in 1946, the national park was Kenya\'s first. It is located approximately 7 kilometres south of the centre of Nairobi, Kenya\'s capital city, with an electric fence separating the park's wildlife from the metropolis.</string>
+    <string name="uhuruinfo">Uhuru Gardens\n \nIs a national park in Kenya. Established in 1946, the national park was Kenya\'s first. It is located approximately 7 kilometres south of the centre of Nairobi, Kenya\'s capital city, with an electric fence separating the park's wildlife from the metropolis.</string>
+    <string name="cityinfo">City In The Sun (Nairobi)\n \nIs a national park in Kenya. Established in 1946, the national park was Kenya\'s first. It is located approximately 7 kilometres south of the centre of Nairobi, Kenya\'s capital city, with an electric fence separating the park's wildlife from the metropolis.</string>
+
+    <string name="naipark">Nairobi National Park</string> <string name="naiparkinfo">A Park for several wild Animals</string>
+    <string name="safari">Safari Walk</string> <string name="safariwalkinfo">Refreshing nature walk environment</string>
+    <string name="uhuru">Uhuru Gardens</string> <string name="uhurugardensinfo">A symbols of national unity - Kenya</string>
+    <string name="cityofsun">City in the Sun</string> <string name="cityofsuninfo">Its a silicon City in the Sun</string>
+    <string name="bomaske">Bomas of Kenya</string> <string name="bomaskeinfo">Kenyan culture preservation</string>
+
+    <string name="elgonpark">Mt. Elgon National Park</string> <string name="elgoninfo">A Park for several wild Animals</string>
+    <string name="lorio">Lorio</string> <string name="lorioinfo">A Place with huge stone at Luucho Village</string>
+    <string name="nabuyole">Nabuyole falls</string> <string name="nabuyoleinfo">Fall at Webuye-R. Nzoia</string>
+    <string name="kwamvunje">Kwamvunje Bridge</string> <string name="kwamvunjeinfo">A bridge made of ropes</string>
+
+    <string name="lake">Lake Victoria</string> <string name="lakeinfo">Fresh Water Lake</string>
+    <string name="takawira">Takawira</string> <string name="takawirainfo">An island in the lake</string>
+    <string name="kiti_mikayi">Kiti Mikayi</string> <string name="mikayiinfo">Huge Stone, Home of Luos Community</string>
+    <string name="dunga">Dunga Beach</string> <string name="dungainfo">Refreshment beach</string>
+
+    <string name="pirate">Pirate Beach</string> <string name="pirateinfo">Free refreshment Beach</string>
+    <string name="fort_jesus">Fort Jesus</string> <string name="fortinfo">Archieve of ancient weapons</string>
+    <string name="diani">Diani Beach</string> <string name="dianiinfo">Refreshment Beach</string>
+    <string name="culture">Cultural Centre</string> <string name="cultureinfo">Centre for coastal origin</string>
+    <string name="cityinwater">City in Water (Mombasa)</string> <string name="cityinwaterinfo">An Island in Indian Ocean and its a city</string>
+
+    <string name="tefaria">Tefaria</string> <string name="tefariainfo">The hill of God</string>
+    <string name="falls">16 Falls</string> <string name="fallsinfo">Nature design 16 falls</string>
+    <string name="heavens">Heavens Gate</string> <string name="heavensinfo">Deep earth nature walk</string>
+    <string name="retreat">Retreat Centre Resort</string> <string name="retreatinfo">Hiking and bike riding among other social games</string>
+    <string name="balloons">Hot Air Ballon</string> <string name="balloonsinfo">Hot Air Balloon riding</string>
+
+    <string name="fees">Adult:400 \nChildren:200</string>
+    <string name="time">Monday-Sunday \n7AM-6PM</string>
+</resources>
